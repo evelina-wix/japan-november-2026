@@ -194,15 +194,15 @@ All times below are LOCAL to each airport. These are timetable matches, not book
 
 ## Compare the packages
 
-| Route | Pace | 17-night accommodation for two | Japan total for two |
-|---|---|---|---|
-| A · Autumn towns & the onsen coast | 7 stays / 6 hotel changes | €2,030–€3,310 | €3,760–€5,860 |
-| B · Slow mountains, crafts & ryokans | 6 stays / 5 hotel changes | €2,085–€3,310 | €3,415–€5,340 |
-| C · Kyushu: food, festivals & forest baths | 8 stays / 7 hotel changes + 2 domestic flights | €1,925–€3,190 | €3,605–€5,840 |
-| D · Your saved Japan: forest baths to the sea | 7 stays / 6 hotel changes; optional ryokan room change | €2,170–€3,600 | €3,580–€5,870 |
-| E · Tokyo & Kyoto, with Kanazawa and Kinosaki | 5 stays / 4 hotel changes | €2,260–€3,780 | €3,990–€6,380 |
-| F · Slow Tokyo, Hakone & Kyoto | 4 stays / 3 hotel changes | €2,440–€4,080 | €3,990–€6,430 |
-| G · Tokyo & Kyoto with the old mountain towns | 5 stays / 4 hotel changes | €2,000–€3,400 | €3,830–€6,060 |
+| Route | Pace | Budget lodging / 17 nights | Budget Japan total / two | Original comfort total / two |
+|---|---|---|---|---|
+| A · Autumn towns & the onsen coast | 7 stays / 6 hotel changes | €1,585–€2,755 | €3,315–€5,305 | €3,760–€5,860 |
+| B · Slow mountains, crafts & ryokans | 6 stays / 5 hotel changes | €1,595–€2,700 | €2,925–€4,730 | €3,415–€5,340 |
+| C · Kyushu: food, festivals & forest baths | 8 stays / 7 hotel changes + 2 domestic flights | €1,615–€2,725 | €3,295–€5,375 | €3,605–€5,840 |
+| D · Your saved Japan: forest baths to the sea | 7 stays / 6 hotel changes; optional ryokan room change | €1,945–€3,320 | €3,355–€5,590 | €3,580–€5,870 |
+| E · Tokyo & Kyoto, with Kanazawa and Kinosaki | 5 stays / 4 hotel changes | €1,535–€2,740 | €3,265–€5,340 | €3,990–€6,380 |
+| F · Slow Tokyo, Hakone & Kyoto | 4 stays / 3 hotel changes | €1,725–€3,000 | €3,275–€5,350 | €3,990–€6,430 |
+| G · Tokyo & Kyoto with the old mountain towns | 5 stays / 4 hotel changes | €1,180–€2,155 | €3,010–€4,815 | €3,830–€6,060 |
 
 ## Route A · Autumn towns & the onsen coast
 
@@ -212,13 +212,13 @@ My overall recommendation after comparing broader Japan itineraries against your
 
 | Overnight dates | Base | Nights | Stay allowance / night for two | Plan |
 |---|---|---|---|---|
-| 1 Nov | Tokyo / Haneda | 1 | €130–€200 | Arrival only. Simple food and sleep; no long onward journey. [Map](https://www.google.com/maps/search/?api=1&query=Tokyo+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Tokyo+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-01&checkout=2026-11-02) |
-| 2–3 Nov | Matsumoto | 2 | €95–€150 | 2 Nov: castle and old streets. 3 Nov: Narai day trip, or city crafts if tired. [Map](https://www.google.com/maps/search/?api=1&query=Matsumoto+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Matsumoto+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-02&checkout=2026-11-04) |
-| 4–6 Nov | Takayama | 3 | €100–€160 | 4 Nov: old town and bath. 5 Nov: markets and temple walk. 6 Nov: Hida-Furukawa or Hida Folk Village. [Map](https://www.google.com/maps/search/?api=1&query=Takayama+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Takayama+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-04&checkout=2026-11-07) |
-| 7–10 Nov | Kanazawa | 4 | €110–€180 | 7 Nov: Shirakawa-go en route. 8 Nov: garden, castle and market. 9 Nov: tea district and crafts. 10 Nov: samurai lanes, museums or a flexible food day. [Map](https://www.google.com/maps/search/?api=1&query=Kanazawa+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Kanazawa+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-07&checkout=2026-11-11) |
-| 11–12 Nov | Kinosaki Onsen | 2 | €220–€380 | 11 Nov: early ryokan arrival, bath and dinner. 12 Nov: full slow day of bathhouses, temple and seafood. [Map](https://www.google.com/maps/search/?api=1&query=Kinosaki+Onsen+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Kinosaki+Onsen+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-11&checkout=2026-11-13) |
-| 13–15 Nov | Hiroshima | 3 | €90–€150 | 13 Nov: travel and easy dinner. 14 Nov: Peace Park and Museum, with time to reflect. 15 Nov: Miyajima, with Daisho-in ceremony at 11:00 if desired. [Map](https://www.google.com/maps/search/?api=1&query=Hiroshima+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Hiroshima+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-13&checkout=2026-11-16) |
-| 16–17 Nov | Tokyo | 2 | €130–€200 | 16 Nov: return and settle. 17 Nov: a flexible neighbourhood day and packing. [Map](https://www.google.com/maps/search/?api=1&query=Tokyo+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Tokyo+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-16&checkout=2026-11-18) |
+| 1 Nov | Tokyo / Haneda | 1 | €110–€190 | Hotel JAL City Haneda Tokyo — Room only. Arrival only. Simple food and sleep; no long onward journey. [Map](https://www.google.com/maps/search/?api=1&query=Tokyo+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Tokyo+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-01&checkout=2026-11-02) |
+| 2–3 Nov | Matsumoto | 2 | €95–€150 | Retained original stay allowance; no cheaper substitution assumed. 2 Nov: castle and old streets. 3 Nov: Narai day trip, or city crafts if tired. [Map](https://www.google.com/maps/search/?api=1&query=Matsumoto+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Matsumoto+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-02&checkout=2026-11-04) |
+| 4–6 Nov | Takayama | 3 | €55–€105 | Country Hotel Takayama — Room only. This removes the hotel onsen; bath visits or a ryokan upgrade cost extra. 4 Nov: old town and bath. 5 Nov: markets and temple walk. 6 Nov: Hida-Furukawa or Hida Folk Village. [Map](https://www.google.com/maps/search/?api=1&query=Takayama+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Takayama+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-04&checkout=2026-11-07) |
+| 7–10 Nov | Kanazawa | 4 | €70–€130 | Hotel Forza Kanazawa — Room only. 7 Nov: Shirakawa-go en route. 8 Nov: garden, castle and market. 9 Nov: tea district and crafts. 10 Nov: samurai lanes, museums or a flexible food day. [Map](https://www.google.com/maps/search/?api=1&query=Kanazawa+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Kanazawa+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-07&checkout=2026-11-11) |
+| 11–12 Nov | Kinosaki Onsen | 2 | €220–€380 | Retained onsen/ryokan allowance with dinner and breakfast, so the bathing experience and meal budget remain covered. 11 Nov: early ryokan arrival, bath and dinner. 12 Nov: full slow day of bathhouses, temple and seafood. [Map](https://www.google.com/maps/search/?api=1&query=Kinosaki+Onsen+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Kinosaki+Onsen+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-11&checkout=2026-11-13) |
+| 13–15 Nov | Hiroshima | 3 | €90–€150 | Retained original stay allowance; no cheaper substitution assumed. 13 Nov: travel and easy dinner. 14 Nov: Peace Park and Museum, with time to reflect. 15 Nov: Miyajima, with Daisho-in ceremony at 11:00 if desired. [Map](https://www.google.com/maps/search/?api=1&query=Hiroshima+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Hiroshima+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-13&checkout=2026-11-16) |
+| 16–17 Nov | Tokyo | 2 | €65–€110 | K’s House Tokyo Oasis — Private room; ensuite; room only. Arrive by the published 19:00 check-in deadline or agree late arrival. 16 Nov: return and settle. 17 Nov: a flexible neighbourhood day and packing. [Map](https://www.google.com/maps/search/?api=1&query=Tokyo+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Tokyo+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-16&checkout=2026-11-18) |
 
 ### Journey gallery
 
@@ -252,14 +252,18 @@ My overall recommendation after comparing broader Japan itineraries against your
 
 | Component | Two-person estimate |
 |---|---|
-| Accommodation, 17 nights | €2,030–€3,310 |
+| Accommodation, 17 nights | €1,585–€2,755 |
 | Transport | €740–€1,040 |
 | Food outside included meals | €750–€1,050 |
 | Sights and experiences | €160–€300 |
 | Local taxes / luggage / small extras | €80–€160 |
-| **Total** | **€3,760–€5,860** |
+| **Total** | **€3,315–€5,305** |
 
 Two Kinosaki nights budgeted with dinner and breakfast. All other nights room only.
+
+Budget stays + retained onsen nights. Private rooms for two; some hostels have shared bathrooms. Same transport, food, activities and extras allowances as the comfort version. All rates are planning estimates, not checked November availability; event and weekend surcharges can exceed the range.
+
+Original comfort total for two: **€3,760–€5,860**. Accommodation: €2,030–€3,310. Matched low/high scenario savings: €445–€555.
 
 Replace one Kinosaki night with Nishimuraya Honkan: allow approximately €300–500 extra for the couple, more for premium crab or a special room.
 
@@ -281,12 +285,12 @@ Choose this for a restful trip, longer local walks and less time hauling bags. T
 
 | Overnight dates | Base | Nights | Stay allowance / night for two | Plan |
 |---|---|---|---|---|
-| 1 Nov | Tokyo / Haneda | 1 | €130–€200 | Arrival and sleep. [Map](https://www.google.com/maps/search/?api=1&query=Tokyo+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Tokyo+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-01&checkout=2026-11-02) |
-| 2–4 Nov | Matsumoto | 3 | €95–€150 | Castle and crafts, Narai day trip, and one weather-flexible countryside or museum day. [Map](https://www.google.com/maps/search/?api=1&query=Matsumoto+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Matsumoto+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-02&checkout=2026-11-05) |
-| 5–8 Nov | Takayama | 4 | €100–€160 | Old town, morning markets, Higashiyama, Hida-Furukawa and unhurried baths. Optional Tanabe upgrade for one night. [Map](https://www.google.com/maps/search/?api=1&query=Takayama+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Takayama+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-05&checkout=2026-11-09) |
-| 9–12 Nov | Kanazawa | 4 | €110–€180 | Shirakawa-go on arrival route, then three days for gardens, tea, food and crafts; optional Toyama excursion. [Map](https://www.google.com/maps/search/?api=1&query=Kanazawa+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Kanazawa+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-09&checkout=2026-11-13) |
-| 13–15 Nov | Yamanaka Onsen | 3 | €190–€300 | Gorge walk, lacquerware shops and a proper three-night ryokan pause. Half-board gives relaxed evenings. [Map](https://www.google.com/maps/search/?api=1&query=Yamanaka+Onsen+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Yamanaka+Onsen+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-13&checkout=2026-11-16) |
-| 16–17 Nov | Tokyo | 2 | €130–€200 | Return with a full buffer day before Seoul. [Map](https://www.google.com/maps/search/?api=1&query=Tokyo+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Tokyo+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-16&checkout=2026-11-18) |
+| 1 Nov | Tokyo / Haneda | 1 | €110–€190 | Hotel JAL City Haneda Tokyo — Room only. Arrival and sleep. [Map](https://www.google.com/maps/search/?api=1&query=Tokyo+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Tokyo+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-01&checkout=2026-11-02) |
+| 2–4 Nov | Matsumoto | 3 | €95–€150 | Retained original stay allowance; no cheaper substitution assumed. Castle and crafts, Narai day trip, and one weather-flexible countryside or museum day. [Map](https://www.google.com/maps/search/?api=1&query=Matsumoto+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Matsumoto+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-02&checkout=2026-11-05) |
+| 5–8 Nov | Takayama | 4 | €55–€105 | Country Hotel Takayama — Room only. This removes the hotel onsen; bath visits or a ryokan upgrade cost extra. Old town, morning markets, Higashiyama, Hida-Furukawa and unhurried baths. Optional Tanabe upgrade for one night. [Map](https://www.google.com/maps/search/?api=1&query=Takayama+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Takayama+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-05&checkout=2026-11-09) |
+| 9–12 Nov | Kanazawa | 4 | €70–€130 | Hotel Forza Kanazawa — Room only. Shirakawa-go on arrival route, then three days for gardens, tea, food and crafts; optional Toyama excursion. [Map](https://www.google.com/maps/search/?api=1&query=Kanazawa+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Kanazawa+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-09&checkout=2026-11-13) |
+| 13–15 Nov | Yamanaka Onsen | 3 | €190–€300 | Retained onsen/ryokan allowance with dinner and breakfast, so the bathing experience and meal budget remain covered. Gorge walk, lacquerware shops and a proper three-night ryokan pause. Half-board gives relaxed evenings. [Map](https://www.google.com/maps/search/?api=1&query=Yamanaka+Onsen+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Yamanaka+Onsen+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-13&checkout=2026-11-16) |
+| 16–17 Nov | Tokyo | 2 | €65–€110 | K’s House Tokyo Oasis — Private room; ensuite; room only. Arrive by the published 19:00 check-in deadline or agree late arrival. Return with a full buffer day before Seoul. [Map](https://www.google.com/maps/search/?api=1&query=Tokyo+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Tokyo+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-16&checkout=2026-11-18) |
 
 ### Journey gallery
 
@@ -316,14 +320,18 @@ Choose this for a restful trip, longer local walks and less time hauling bags. T
 
 | Component | Two-person estimate |
 |---|---|
-| Accommodation, 17 nights | €2,085–€3,310 |
+| Accommodation, 17 nights | €1,595–€2,700 |
 | Transport | €450–€650 |
 | Food outside included meals | €650–€950 |
 | Sights and experiences | €150–€280 |
 | Local taxes / luggage / small extras | €80–€150 |
-| **Total** | **€3,415–€5,340** |
+| **Total** | **€2,925–€4,730** |
 
 Three Yamanaka nights budgeted with dinner and breakfast. Other nights room only.
+
+Budget stays + retained onsen nights. Private rooms for two; some hostels have shared bathrooms. Same transport, food, activities and extras allowances as the comfort version. All rates are planning estimates, not checked November availability; event and weekend surcharges can exceed the range.
+
+Original comfort total for two: **€3,415–€5,340**. Accommodation: €2,085–€3,310. Matched low/high scenario savings: €490–€610.
 
 Replace one ordinary Takayama night with Ryokan Tanabe including dinner and breakfast: allow about €180–300 extra for two; reduce separate food spend for those included meals.
 
@@ -343,14 +351,14 @@ My strongest thematic match for you if two extra flights are acceptable. Karatsu
 
 | Overnight dates | Base | Nights | Stay allowance / night for two | Plan |
 |---|---|---|---|---|
-| 1 Nov | Tokyo / Haneda | 1 | €130–€200 | Arrival and sleep near Haneda. [Map](https://www.google.com/maps/search/?api=1&query=Tokyo+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Tokyo+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-01&checkout=2026-11-02) |
-| 2–4 Nov | Fukuoka | 3 | €100–€180 | 2 Nov: fly south and easy city evening. 3 Nov: Karatsu Kunchi day trip. 4 Nov: Dazaifu or a slow food day. [Map](https://www.google.com/maps/search/?api=1&query=Fukuoka+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Fukuoka+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-02&checkout=2026-11-05) |
-| 5–7 Nov | Nagasaki | 3 | €85–€140 | Dejima, port streets and food; Peace Park/Museum; Glover Garden or a pottery-focused day. [Map](https://www.google.com/maps/search/?api=1&query=Nagasaki+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Nagasaki+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-05&checkout=2026-11-08) |
-| 8–9 Nov | Kumamoto | 2 | €90–€145 | Castle, Suizenji garden and local food. Optional Aso landscape day if transport and conditions suit. [Map](https://www.google.com/maps/search/?api=1&query=Kumamoto+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Kumamoto+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-08&checkout=2026-11-10) |
-| 10–11 Nov | Kurokawa Onsen | 2 | €230–€350 | Two nights of forest baths, ryokan cooking and village walks. Keep the full day free of long excursions. [Map](https://www.google.com/maps/search/?api=1&query=Kurokawa+Onsen+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Kurokawa+Onsen+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-10&checkout=2026-11-12) |
-| 12–14 Nov | Beppu | 3 | €90–€160 | Kannawa steam cooking and local baths; one Yufuin day; one easy Beppu day. [Map](https://www.google.com/maps/search/?api=1&query=Beppu+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Beppu+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-12&checkout=2026-11-15) |
-| 15–16 Nov | Fukuoka | 2 | €100–€180 | 15 Nov: return and a good dinner. 16 Nov: sumo tournament day, subject to seats. [Map](https://www.google.com/maps/search/?api=1&query=Fukuoka+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Fukuoka+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-15&checkout=2026-11-17) |
-| 17 Nov | Tokyo / Haneda | 1 | €130–€200 | Fly back with an overnight buffer before the Seoul flight. [Map](https://www.google.com/maps/search/?api=1&query=Tokyo+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Tokyo+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-17&checkout=2026-11-18) |
+| 1 Nov | Tokyo / Haneda | 1 | €110–€190 | Hotel JAL City Haneda Tokyo — Room only. Arrival and sleep near Haneda. [Map](https://www.google.com/maps/search/?api=1&query=Tokyo+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Tokyo+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-01&checkout=2026-11-02) |
+| 2–4 Nov | Fukuoka | 3 | €55–€100 | WeBase HAKATA — Private bunk room; shared showers/toilets; room only. 2 Nov: fly south and easy city evening. 3 Nov: Karatsu Kunchi day trip. 4 Nov: Dazaifu or a slow food day. [Map](https://www.google.com/maps/search/?api=1&query=Fukuoka+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Fukuoka+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-02&checkout=2026-11-05) |
+| 5–7 Nov | Nagasaki | 3 | €85–€140 | Retained original stay allowance; no cheaper substitution assumed. Dejima, port streets and food; Peace Park/Museum; Glover Garden or a pottery-focused day. [Map](https://www.google.com/maps/search/?api=1&query=Nagasaki+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Nagasaki+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-05&checkout=2026-11-08) |
+| 8–9 Nov | Kumamoto | 2 | €90–€145 | Retained original stay allowance; no cheaper substitution assumed. Castle, Suizenji garden and local food. Optional Aso landscape day if transport and conditions suit. [Map](https://www.google.com/maps/search/?api=1&query=Kumamoto+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Kumamoto+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-08&checkout=2026-11-10) |
+| 10–11 Nov | Kurokawa Onsen | 2 | €230–€350 | Retained onsen/ryokan allowance with dinner and breakfast, so the bathing experience and meal budget remain covered. Two nights of forest baths, ryokan cooking and village walks. Keep the full day free of long excursions. [Map](https://www.google.com/maps/search/?api=1&query=Kurokawa+Onsen+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Kurokawa+Onsen+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-10&checkout=2026-11-12) |
+| 12–14 Nov | Beppu | 3 | €75–€145 | Nogami Honkan — Room only; plan varies. Kannawa steam cooking and local baths; one Yufuin day; one easy Beppu day. [Map](https://www.google.com/maps/search/?api=1&query=Beppu+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Beppu+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-12&checkout=2026-11-15) |
+| 15–16 Nov | Fukuoka | 2 | €55–€100 | WeBase HAKATA — Private bunk room; shared showers/toilets; room only. 15 Nov: return and a good dinner. 16 Nov: sumo tournament day, subject to seats. [Map](https://www.google.com/maps/search/?api=1&query=Fukuoka+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Fukuoka+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-15&checkout=2026-11-17) |
+| 17 Nov | Tokyo / Haneda | 1 | €110–€190 | Hotel JAL City Haneda Tokyo — Room only. Fly back with an overnight buffer before the Seoul flight. [Map](https://www.google.com/maps/search/?api=1&query=Tokyo+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Tokyo+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-17&checkout=2026-11-18) |
 
 ### Journey gallery
 
@@ -384,14 +392,18 @@ My strongest thematic match for you if two extra flights are acceptable. Karatsu
 
 | Component | Two-person estimate |
 |---|---|
-| Accommodation, 17 nights | €1,925–€3,190 |
+| Accommodation, 17 nights | €1,615–€2,725 |
 | Transport including 2 domestic flights | €650–€1,050 |
 | Food outside included meals | €750–€1,100 |
 | Sights and experiences, including sumo allowance | €200–€350 |
 | Local taxes / luggage / small extras | €80–€150 |
-| **Total** | **€3,605–€5,840** |
+| **Total** | **€3,295–€5,375** |
 
 Two Kurokawa nights budgeted with dinner and breakfast. Other nights room only. Domestic flights are estimated separately from lodging.
+
+Budget stays + retained onsen nights. Private rooms for two; some hostels have shared bathrooms. Same transport, food, activities and extras allowances as the comfort version. All rates are planning estimates, not checked November availability; event and weekend surcharges can exceed the range.
+
+Original comfort total for two: **€3,605–€5,840**. Accommodation: €1,925–€3,190. Matched low/high scenario savings: €310–€465.
 
 Switch Wakaba to Yamamizuki for the two Kurokawa nights: allow roughly €120–220 extra in total for two, subject to the exact room and meal plans.
 
@@ -413,13 +425,13 @@ An optional eastern circuit if its baths, Fuji views and Izu coast are personal 
 
 | Overnight dates | Base | Nights | Stay allowance / night for two | Plan |
 |---|---|---|---|---|
-| 1 Nov | Tokyo / Haneda | 1 | €130–€200 | Land, transfer and sleep. [Map](https://www.google.com/maps/search/?api=1&query=Tokyo+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Tokyo+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-01&checkout=2026-11-02) |
-| 2–3 Nov | Minakami | 2 | €230–€360 | Takaragawa Onsen Osenkaku and its riverside baths; one flexible mountain or local day. [Map](https://www.google.com/maps/search/?api=1&query=Minakami+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Minakami+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-02&checkout=2026-11-04) |
-| 4–6 Nov | Karuizawa | 3 | €100–€190 | BEB5 base, Harunire Terrace, Tombo-no-yu, Kumoba Pond and a nature activity if operating. [Map](https://www.google.com/maps/search/?api=1&query=Karuizawa+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Karuizawa+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-04&checkout=2026-11-07) |
-| 7–9 Nov | Kawaguchiko | 3 | €100–€180 | Two full days for lake walks, weather-flexible Fuji views and hoto noodles. [Map](https://www.google.com/maps/search/?api=1&query=Kawaguchiko+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Kawaguchiko+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-07&checkout=2026-11-10) |
-| 10–12 Nov | Ito / Izu Kogen | 3 | €90–€150 | Mt Omuro, Jogasaki Coast and Akazawa baths spread over two days; optional cooking activity. [Map](https://www.google.com/maps/search/?api=1&query=Ito+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Ito+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-10&checkout=2026-11-13) |
-| 13–15 Nov | Shuzenji | 3 | €150–€240 | Bamboo path, river walks and one special ryokan evening. Budget combines one Arai-style half-board night with two simpler room-only nights. [Map](https://www.google.com/maps/search/?api=1&query=Shuzenji+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Shuzenji+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-13&checkout=2026-11-16) |
-| 16–17 Nov | Tokyo | 2 | €130–€200 | Saved food pins and one small neighbourhood: Jimbocho books/curry or a jazz evening. [Map](https://www.google.com/maps/search/?api=1&query=Tokyo+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Tokyo+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-16&checkout=2026-11-18) |
+| 1 Nov | Tokyo / Haneda | 1 | €110–€190 | Hotel JAL City Haneda Tokyo — Room only. Land, transfer and sleep. [Map](https://www.google.com/maps/search/?api=1&query=Tokyo+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Tokyo+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-01&checkout=2026-11-02) |
+| 2–3 Nov | Minakami | 2 | €230–€360 | Retained onsen/ryokan allowance with dinner and breakfast, so the bathing experience and meal budget remain covered. Takaragawa Onsen Osenkaku and its riverside baths; one flexible mountain or local day. [Map](https://www.google.com/maps/search/?api=1&query=Minakami+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Minakami+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-02&checkout=2026-11-04) |
+| 4–6 Nov | Karuizawa | 3 | €100–€190 | Retained original stay allowance; no cheaper substitution assumed. BEB5 base, Harunire Terrace, Tombo-no-yu, Kumoba Pond and a nature activity if operating. [Map](https://www.google.com/maps/search/?api=1&query=Karuizawa+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Karuizawa+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-04&checkout=2026-11-07) |
+| 7–9 Nov | Kawaguchiko | 3 | €90–€170 | The Noborisaka Hotel — Room only. Two full days for lake walks, weather-flexible Fuji views and hoto noodles. [Map](https://www.google.com/maps/search/?api=1&query=Kawaguchiko+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Kawaguchiko+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-07&checkout=2026-11-10) |
+| 10–12 Nov | Ito / Izu Kogen | 3 | €75–€130 | K’s House Ito Onsen — Private room, no meals. Mt Omuro, Jogasaki Coast and Akazawa baths spread over two days; optional cooking activity. [Map](https://www.google.com/maps/search/?api=1&query=Ito+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Ito+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-10&checkout=2026-11-13) |
+| 13–15 Nov | Shuzenji | 3 | €150–€240 | Retained blended allowance: two budget nights plus one dinner-and-breakfast ryokan night; includes an accommodation change. Bamboo path, river walks and one special ryokan evening. Budget combines one Arai-style half-board night with two simpler room-only nights. [Map](https://www.google.com/maps/search/?api=1&query=Shuzenji+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Shuzenji+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-13&checkout=2026-11-16) |
+| 16–17 Nov | Tokyo | 2 | €65–€110 | K’s House Tokyo Oasis — Private room; ensuite; room only. Arrive by the published 19:00 check-in deadline or agree late arrival. Saved food pins and one small neighbourhood: Jimbocho books/curry or a jazz evening. [Map](https://www.google.com/maps/search/?api=1&query=Tokyo+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Tokyo+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-16&checkout=2026-11-18) |
 
 ### Journey gallery
 
@@ -451,14 +463,18 @@ An optional eastern circuit if its baths, Fuji views and Izu coast are personal 
 
 | Component | Two-person estimate |
 |---|---|
-| Accommodation, 17 nights | €2,170–€3,600 |
+| Accommodation, 17 nights | €1,945–€3,320 |
 | Transport and selected local taxis | €450–€750 |
 | Food outside included meals | €700–€1,050 |
 | Sights, day baths and one experience | €180–€320 |
 | Local taxes / luggage / small extras | €80–€150 |
-| **Total** | **€3,580–€5,870** |
+| **Total** | **€3,355–€5,590** |
 
 Two Minakami nights plus one Shuzenji night include dinner and breakfast in the allowance. Shuzenji is a blended 3-night budget; Arai alone will not cost €150–240 nightly. Changing to/from a budget property adds one accommodation move.
+
+Budget stays + retained onsen nights. Private rooms for two; some hostels have shared bathrooms. Same transport, food, activities and extras allowances as the comfort version. All rates are planning estimates, not checked November availability; event and weekend surcharges can exceed the range.
+
+Original comfort total for two: **€3,580–€5,870**. Accommodation: €2,170–€3,600. Matched low/high scenario savings: €225–€280.
 
 Use Arai for all three Shuzenji nights for continuity: roughly €390–660 extra over the blended allowance, depending on the rooms. Asaba requires a separate luxury quote and is not included.
 
@@ -482,11 +498,11 @@ My first choice for your new brief. Six Tokyo nights in total, five Kyoto nights
 
 | Overnight dates | Base | Nights | Stay allowance / night for two | Plan |
 |---|---|---|---|---|
-| 1–5 Nov | Tokyo | 5 | €130–€200 | Neighbourhood days, good food, books, shopping and one optional excursion. November 1 is arrival only. [Map](https://www.google.com/maps/search/?api=1&query=Tokyo+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Tokyo+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-01&checkout=2026-11-06) |
-| 6–9 Nov | Kanazawa | 4 | €110–€180 | Gardens, tea districts, seafood, crafts and a flexible extra day. [Map](https://www.google.com/maps/search/?api=1&query=Kanazawa+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Kanazawa+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-06&checkout=2026-11-10) |
-| 10–11 Nov | Kinosaki Onsen | 2 | €220–€380 | Arrive early for dinner; spend the full following day bathing, strolling and eating seafood. [Map](https://www.google.com/maps/search/?api=1&query=Kinosaki+Onsen+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Kinosaki+Onsen+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-10&checkout=2026-11-12) |
-| 12–16 Nov | Kyoto | 5 | €120–€220 | Slow Higashiyama days, one Ohara/Takao outing, northern Arashiyama, local food and a workshop. Add Uji or a free day if staying a week. [Map](https://www.google.com/maps/search/?api=1&query=Kyoto+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Kyoto+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-12&checkout=2026-11-17) |
-| 17 Nov | Tokyo | 1 | €130–€200 | Return, an easy final dinner and overnight buffer before Seoul. [Map](https://www.google.com/maps/search/?api=1&query=Tokyo+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Tokyo+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-17&checkout=2026-11-18) |
+| 1–5 Nov | Tokyo | 5 | €80–€140 | Sotetsu Fresa Inn Tokyo-Kinshicho — Room only. Keep the same hotel throughout this Tokyo block; notify it of the late November 1 arrival. Neighbourhood days, good food, books, shopping and one optional excursion. November 1 is arrival only. [Map](https://www.google.com/maps/search/?api=1&query=Tokyo+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Tokyo+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-01&checkout=2026-11-06) |
+| 6–9 Nov | Kanazawa | 4 | €70–€130 | Hotel Forza Kanazawa — Room only. Gardens, tea districts, seafood, crafts and a flexible extra day. [Map](https://www.google.com/maps/search/?api=1&query=Kanazawa+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Kanazawa+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-06&checkout=2026-11-10) |
+| 10–11 Nov | Kinosaki Onsen | 2 | €220–€380 | Retained onsen/ryokan allowance with dinner and breakfast, so the bathing experience and meal budget remain covered. Arrive early for dinner; spend the full following day bathing, strolling and eating seafood. [Map](https://www.google.com/maps/search/?api=1&query=Kinosaki+Onsen+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Kinosaki+Onsen+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-10&checkout=2026-11-12) |
+| 12–16 Nov | Kyoto | 5 | €70–€130 | Piece Hostel Sanjo — Private room only; no meals assumed. Slow Higashiyama days, one Ohara/Takao outing, northern Arashiyama, local food and a workshop. Add Uji or a free day if staying a week. [Map](https://www.google.com/maps/search/?api=1&query=Kyoto+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Kyoto+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-12&checkout=2026-11-17) |
+| 17 Nov | Tokyo | 1 | €65–€110 | K’s House Tokyo Oasis — Private room; ensuite; room only. Arrive by the published 19:00 check-in deadline or agree late arrival. Return, an easy final dinner and overnight buffer before Seoul. [Map](https://www.google.com/maps/search/?api=1&query=Tokyo+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Tokyo+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-17&checkout=2026-11-18) |
 
 ### Journey gallery
 
@@ -514,14 +530,18 @@ My first choice for your new brief. Six Tokyo nights in total, five Kyoto nights
 
 | Component | Two-person estimate |
 |---|---|
-| Accommodation, 17 nights | €2,260–€3,780 |
+| Accommodation, 17 nights | €1,535–€2,740 |
 | Transport | €600–€850 |
 | Food outside included meals | €850–€1,200 |
 | Sights and experiences | €180–€350 |
 | Local taxes / luggage / small extras | €100–€200 |
-| **Total** | **€3,990–€6,380** |
+| **Total** | **€3,265–€5,340** |
 
 Two Kinosaki nights include dinner and breakfast in the estimate. Other nights are room only.
+
+Budget stays + retained onsen nights. Private rooms for two; some hostels have shared bathrooms. Same transport, food, activities and extras allowances as the comfort version. All rates are planning estimates, not checked November availability; event and weekend surcharges can exceed the range.
+
+Original comfort total for two: **€3,990–€6,380**. Accommodation: €2,260–€3,780. Matched low/high scenario savings: €725–€1,040.
 
 Choose one special Kyoto dinner before upgrading every hotel night. Allow €150–250 for two, depending on the restaurant and drinks, outside the base estimate.
 
@@ -541,10 +561,10 @@ Seven nights each in Tokyo and Kyoto, with three Hakone nights in between. Best 
 
 | Overnight dates | Base | Nights | Stay allowance / night for two | Plan |
 |---|---|---|---|---|
-| 1–6 Nov | Tokyo | 6 | €130–€200 | Neighbourhood days, good food, books, shopping and one optional excursion. November 1 is arrival only. [Map](https://www.google.com/maps/search/?api=1&query=Tokyo+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Tokyo+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-01&checkout=2026-11-07) |
-| 7–9 Nov | Hakone | 3 | €230–€380 | One arrival/bathing afternoon, one museum day and one weather-flexible lake or onsen day. [Map](https://www.google.com/maps/search/?api=1&query=Hakone+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Hakone+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-07&checkout=2026-11-10) |
-| 10–16 Nov | Kyoto | 7 | €120–€220 | Slow Higashiyama days, one Ohara/Takao outing, northern Arashiyama, local food and a workshop. Add Uji or a free day if staying a week. [Map](https://www.google.com/maps/search/?api=1&query=Kyoto+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Kyoto+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-10&checkout=2026-11-17) |
-| 17 Nov | Tokyo | 1 | €130–€200 | Return, an easy final dinner and overnight buffer before Seoul. [Map](https://www.google.com/maps/search/?api=1&query=Tokyo+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Tokyo+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-17&checkout=2026-11-18) |
+| 1–6 Nov | Tokyo | 6 | €80–€140 | Sotetsu Fresa Inn Tokyo-Kinshicho — Room only. Keep the same hotel throughout this Tokyo block; notify it of the late November 1 arrival. Neighbourhood days, good food, books, shopping and one optional excursion. November 1 is arrival only. [Map](https://www.google.com/maps/search/?api=1&query=Tokyo+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Tokyo+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-01&checkout=2026-11-07) |
+| 7–9 Nov | Hakone | 3 | €230–€380 | Retained onsen/ryokan allowance with dinner and breakfast, so the bathing experience and meal budget remain covered. One arrival/bathing afternoon, one museum day and one weather-flexible lake or onsen day. [Map](https://www.google.com/maps/search/?api=1&query=Hakone+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Hakone+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-07&checkout=2026-11-10) |
+| 10–16 Nov | Kyoto | 7 | €70–€130 | Piece Hostel Sanjo — Private room only; no meals assumed. Slow Higashiyama days, one Ohara/Takao outing, northern Arashiyama, local food and a workshop. Add Uji or a free day if staying a week. [Map](https://www.google.com/maps/search/?api=1&query=Kyoto+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Kyoto+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-10&checkout=2026-11-17) |
+| 17 Nov | Tokyo | 1 | €65–€110 | K’s House Tokyo Oasis — Private room; ensuite; room only. Arrive by the published 19:00 check-in deadline or agree late arrival. Return, an easy final dinner and overnight buffer before Seoul. [Map](https://www.google.com/maps/search/?api=1&query=Tokyo+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Tokyo+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-17&checkout=2026-11-18) |
 
 ### Journey gallery
 
@@ -566,14 +586,18 @@ Seven nights each in Tokyo and Kyoto, with three Hakone nights in between. Best 
 
 | Component | Two-person estimate |
 |---|---|
-| Accommodation, 17 nights | €2,440–€4,080 |
+| Accommodation, 17 nights | €1,725–€3,000 |
 | Transport | €450–€650 |
 | Food outside included meals | €800–€1,150 |
 | Sights and experiences | €200–€350 |
 | Local taxes / luggage / small extras | €100–€200 |
-| **Total** | **€3,990–€6,430** |
+| **Total** | **€3,275–€5,350** |
 
 Three Hakone nights include dinner and breakfast. Tokyo and Kyoto nights are room only.
+
+Budget stays + retained onsen nights. Private rooms for two; some hostels have shared bathrooms. Same transport, food, activities and extras allowances as the comfort version. All rates are planning estimates, not checked November availability; event and weekend surcharges can exceed the range.
+
+Original comfort total for two: **€3,990–€6,430**. Accommodation: €2,440–€4,080. Matched low/high scenario savings: €715–€1,080.
 
 A room with its own natural onsen may add €100–250 per night or more. First compare a standard room with a reservable private bath; do not assume the two are priced alike.
 
@@ -593,11 +617,11 @@ Five Tokyo nights in total, six Kyoto nights, and three each in Takayama and Kan
 
 | Overnight dates | Base | Nights | Stay allowance / night for two | Plan |
 |---|---|---|---|---|
-| 1–4 Nov | Tokyo | 4 | €130–€200 | Neighbourhood days, good food, books, shopping and one optional excursion. November 1 is arrival only. [Map](https://www.google.com/maps/search/?api=1&query=Tokyo+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Tokyo+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-01&checkout=2026-11-05) |
-| 5–7 Nov | Takayama | 3 | €100–€180 | Old town, markets, Hida-Furukawa and hotel onsen; optional one-night traditional ryokan upgrade. [Map](https://www.google.com/maps/search/?api=1&query=Takayama+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Takayama+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-05&checkout=2026-11-08) |
-| 8–10 Nov | Kanazawa | 3 | €110–€180 | Shirakawa-go in transit, then gardens, tea districts, crafts and seafood. [Map](https://www.google.com/maps/search/?api=1&query=Kanazawa+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Kanazawa+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-08&checkout=2026-11-11) |
-| 11–16 Nov | Kyoto | 6 | €120–€220 | Slow Higashiyama days, one Ohara/Takao outing, northern Arashiyama, local food and a workshop. Add Uji or a free day if staying a week. [Map](https://www.google.com/maps/search/?api=1&query=Kyoto+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Kyoto+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-11&checkout=2026-11-17) |
-| 17 Nov | Tokyo | 1 | €130–€200 | Return, an easy final dinner and overnight buffer before Seoul. [Map](https://www.google.com/maps/search/?api=1&query=Tokyo+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Tokyo+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-17&checkout=2026-11-18) |
+| 1–4 Nov | Tokyo | 4 | €80–€140 | Sotetsu Fresa Inn Tokyo-Kinshicho — Room only. Keep the same hotel throughout this Tokyo block; notify it of the late November 1 arrival. Neighbourhood days, good food, books, shopping and one optional excursion. November 1 is arrival only. [Map](https://www.google.com/maps/search/?api=1&query=Tokyo+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Tokyo+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-01&checkout=2026-11-05) |
+| 5–7 Nov | Takayama | 3 | €55–€105 | Country Hotel Takayama — Room only. This removes the hotel onsen; bath visits or a ryokan upgrade cost extra. Old town, markets, Hida-Furukawa and hotel onsen; optional one-night traditional ryokan upgrade. [Map](https://www.google.com/maps/search/?api=1&query=Takayama+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Takayama+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-05&checkout=2026-11-08) |
+| 8–10 Nov | Kanazawa | 3 | €70–€130 | Hotel Forza Kanazawa — Room only. Shirakawa-go in transit, then gardens, tea districts, crafts and seafood. [Map](https://www.google.com/maps/search/?api=1&query=Kanazawa+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Kanazawa+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-08&checkout=2026-11-11) |
+| 11–16 Nov | Kyoto | 6 | €70–€130 | Piece Hostel Sanjo — Private room only; no meals assumed. Slow Higashiyama days, one Ohara/Takao outing, northern Arashiyama, local food and a workshop. Add Uji or a free day if staying a week. [Map](https://www.google.com/maps/search/?api=1&query=Kyoto+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Kyoto+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-11&checkout=2026-11-17) |
+| 17 Nov | Tokyo | 1 | €65–€110 | K’s House Tokyo Oasis — Private room; ensuite; room only. Arrive by the published 19:00 check-in deadline or agree late arrival. Return, an easy final dinner and overnight buffer before Seoul. [Map](https://www.google.com/maps/search/?api=1&query=Tokyo+Japan) · [Search rooms for these dates](https://www.booking.com/searchresults.html?ss=Tokyo+Japan&group_adults=2&no_rooms=1&group_children=0&checkin=2026-11-17&checkout=2026-11-18) |
 
 ### Journey gallery
 
@@ -625,14 +649,18 @@ Five Tokyo nights in total, six Kyoto nights, and three each in Takayama and Kan
 
 | Component | Two-person estimate |
 |---|---|
-| Accommodation, 17 nights | €2,000–€3,400 |
+| Accommodation, 17 nights | €1,180–€2,155 |
 | Transport | €600–€850 |
 | Food outside included meals | €950–€1,300 |
 | Sights and experiences | €180–€330 |
 | Local taxes / luggage / small extras | €100–€180 |
-| **Total** | **€3,830–€6,060** |
+| **Total** | **€3,010–€4,815** |
 
 All nights budgeted room only. Use a hotel such as Tokyu Stay Hida-Takayama for onsen access; a full ryokan dinner stay is an optional upgrade.
+
+Budget stays + retained onsen nights. Private rooms for two; some hostels have shared bathrooms. Same transport, food, activities and extras allowances as the comfort version. All rates are planning estimates, not checked November availability; event and weekend surcharges can exceed the range.
+
+Original comfort total for two: **€3,830–€6,060**. Accommodation: €2,000–€3,400. Matched low/high scenario savings: €820–€1,245.
 
 Replace one Takayama hotel night with Ryokan Tanabe including dinner and breakfast: allow roughly €180–300 extra for two and reduce separate food spending for the included meals.
 
@@ -1412,7 +1440,7 @@ References: [hakone](https://hakone-japan.com/plan-your-trip/access/), [yuryo](h
 
 ## Cheaper stays: under-€150 candidates
 
-Private rooms for TWO adults, per night, generally room only. These are planning ranges and shortlist candidates, NOT verified offers for November 2026. Shared-facility options are labelled. Kyoto weekends, holiday demand and room availability can push prices over €150. The original package totals have not been repriced against these unconfirmed rooms.
+Private rooms for TWO adults, per night, generally room only. These are planning ranges and shortlist candidates, NOT verified offers for November 2026. Shared-facility options are labelled. Kyoto weekends, holiday demand and room availability can push prices over €150. Route totals now use the budget shortlist where practical, retaining the planned onsen nights and meal allowances. These are estimates, not live repricing.
 
 | Area | Stay | Planning range | Trade-off | Links |
 |---|---|---|---|---|
