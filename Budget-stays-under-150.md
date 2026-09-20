@@ -2,7 +2,7 @@
 
 Estimates per private room for TWO, per night. These are planning allowances, not checked November 2026 offers. Hostel options mean a private room, never two dorm beds.
 
-Aim for €55–115 on the most economical nights; keep a late-check-in hotel for November 1. Autumn and event dates may cost more.
+Prefer under €150 per private room for two, with only occasional splurges. Aim for €55–115 on the most economical nights; keep a late-check-in hotel for November 1. Autumn and event dates may cost more.
 
 ## WeBase HAKATA · Fukuoka / Hakata
 
